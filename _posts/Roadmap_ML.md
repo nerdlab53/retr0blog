@@ -1,0 +1,38 @@
+## roadmap for learning ML in 2024
+
+for learning ML in this day and age, I personally believe that one doesn't need to have to pay for any courses.. and so when one of my close friends asked me about a roadmap I began to wonder about what I should
+recommend him, and so this post is actually a result of that, i began tracking back my footsteps and this came out as a result..
+
+having said this, let me justify the below recommendations one by one in the order I have put them..
+
+1. ML Stanford : https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
+-  this is one of the best courses ever open sourced by Stanford Uni the CS229 is the best classroom (non-MOOC) I have seen and I myself have studied from the same, it is a pretty good course
+   as it builds from the bottom using stats and prob. can definitely recommend this one given you have high school prob + stats knowledge. 
+
+2. PyTorch : https://www.youtube.com/playlist?list=PL8IpyNZ21vUQw-TYaf2xF6SbUrqRKbGxh
+-  this compilation of twitch streams from Daniel Bourke is a very good resource for learning one of the most used DL/ML frameworks in the world both in research and as well as industry,
+   also the way of teaching that Daniel has is just simply amazing and that is why this one is worth it.
+
+3. scikit-learn : https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq
+-  another good playlist to get familiarized with scikit-learn for ML as it is one of the easiest, basic and actually most important frameworks which I still use to this day even when working
+   with deep learning projects as it's got some pretty good standard functions for eg the split function.
+
+4. Deep Learning : https://course.fast.ai/
+-  i will not try to defend this one, this is just an essential in my opinion u will have to go through this masterpiece atleast once
+
+5. NLP w/ DL : https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+-  another Stanford Uni course (i'm a fanboy sorry) for NLP it's just a fantastic one so far as I am just about done with this one, pretty great to understand from the ground up and it's
+   another one which builds from the ground up to the advanced
+   
+
+6. CS231n Image Processing : https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+-  karpathy made this course
+
+7. Implement older papers : https://d2l.ai/
+-  as someone doing deep learning I believe u should get acquainted with the research that has been going on for the past decade or so (atleast) in deep learning, and there is no better way
+   to do that other than implement older papers and then go ahead from there.. this is also an essential 
+
+Also, so that you don't spend a lot of time on one single thing, here is a little suggestion from my side : 
+ML + scikit-learn (3 weeks) -> PyTorch + Deep Learning (1 month) -> NLP w/DL / + CS231n (4-5 months with paper implementations)
+
+that's all for this one see ya!
